@@ -228,7 +228,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9FFAC5FC2C1C43F5007EDDE9 /* Build configuration list for PBXProject "LgnRND_SUI_Lotti" */;
+			buildConfigurationList = 9FFAC5FC2C1C43F5007EDDE9 /* Build configuration list for PBXProject "LgnRND_SUI_Lottie" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -524,7 +524,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LgnRND_SUI_Lotti.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LgnRND_SUI_Lotti";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LgnRND_SUI_Lottie.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LgnRND_SUI_Lottie";
 			};
 			name = Debug;
 		};
@@ -544,7 +544,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LgnRND_SUI_Lotti.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LgnRND_SUI_Lotti";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LgnRND_SUI_Lottie.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/LgnRND_SUI_Lottie";
 			};
 			name = Release;
 		};
@@ -587,7 +587,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9FFAC5FC2C1C43F5007EDDE9 /* Build configuration list for PBXProject "LgnRND_SUI_Lotti" */ = {
+		9FFAC5FC2C1C43F5007EDDE9 /* Build configuration list for PBXProject "LgnRND_SUI_Lottie" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9FFAC6232C1C43F7007EDDE9 /* Debug */,
